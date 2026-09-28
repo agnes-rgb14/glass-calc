@@ -109,6 +109,15 @@ glass-calc/
 └── docs/
     └── screenshots/   # theme screenshots
 ```
+## Screenshots
+<img width="339" height="536" alt="2026-09-28_23-55-42" src="https://github.com/user-attachments/assets/a65f56c1-23ca-491d-9075-d9c139877af7" />
+<img width="341" height="539" alt="2026-09-28_23-56-29" src="https://github.com/user-attachments/assets/151ff99f-3b66-4e56-8b24-7cdfa69662d9" />
+<img width="341" height="539" alt="2026-09-28_23-56-47" src="https://github.com/user-attachments/assets/657c6d93-1bb9-4d9b-850b-d3f2041265f2" />
+<img width="340" height="542" alt="2026-09-28_23-57-21" src="https://github.com/user-attachments/assets/a8da5459-17ab-4d68-8e1e-b9c00a81a4c4" />
+
+
+
+
 
 ## 🔧 How it works
 
